@@ -1,5 +1,5 @@
-## My personal repo containing:
+## A free data science course for anybody: Learn applied statistics and machine learning for Quantitative Investment in Python 
 
-  *Self-study friendly Python 3.6, general Data science and algorithmic trading programming concepts notebooks for anybody who's interested.*
+  *Self-study friendly Python 3.6, specialised Data science and algorithmic trading and investment programming tutorial notebooks for anybody who's interested.*
 
 **Note: Will be adding a contents table in here soon!**
